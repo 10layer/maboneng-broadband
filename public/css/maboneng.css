@@ -4,6 +4,10 @@ body {
 .vspaced {
   margin-bottom: 20px;
 }
+.header {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
 .footer {
   min-height: 50px;
   border-top: 1px #444 solid;
